@@ -121,8 +121,7 @@ font-size:0.85rem;
    background-size: cover;
    display:flex;
    justify-content:center;
-   align-items: flex-end;
-
+   align-items:center;
 }
 .hero-message{
    background-color:white;
@@ -133,8 +132,26 @@ font-size:0.85rem;
    justify-content: center;
    font-size:0.85rem;
    width:80%;
+   position: relative;
+   bottom:70px;
    
 }
 .hero-message a{
    color:#007185;
+}
+.shop-section{
+   display:flex;
+   justify-content:space-evenly;
+   background-color: #e2e7e6;
+}
+.box{
+   border:2px solid black;
+   height:100px;
+   position: relative;
+   bottom:340px;
+   width:23%;
+   height:370px;
+   background-color:white;
+  
+
 }
