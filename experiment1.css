@@ -1,0 +1,19 @@
+*{
+    margin:0;
+    padding:0;
+
+}
+body{
+    height:100vh;
+    display:flex;
+    justify-content: center;
+    align-items: center;
+}
+.tabcontent{
+    width:900px;
+    height:400px;
+    border:2px solid black;
+}
+.tr1{
+    
+}
