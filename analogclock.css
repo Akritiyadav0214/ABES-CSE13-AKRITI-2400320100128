@@ -6,3 +6,23 @@
     background-image:url("https://i.pinimg.com/736x/76/70/99/767099598edc493f08b6477ea7285481.jpg");
     background-size: cover;
 }
+#hour ,#minute,#second{
+    position :absolute ;
+    background:black;
+    border-radius:10px;
+
+}
+#hour{
+    width:1%;
+    height:49%;
+    top:21%;
+    left:49.5%;
+
+
+}
+#minute{
+
+}
+#second{
+
+}
