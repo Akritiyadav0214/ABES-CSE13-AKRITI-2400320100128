@@ -21,8 +21,19 @@
 
 }
 #minute{
-
+    width:1%;
+    height:65%;
+    top:7%;
+    left:49.5%;
+    opacity:0.8;
 }
 #second{
+    width:0.5%;
+    height:70%;
+    top:2%;
+    left:49.75%;
+    opacity:0.8;
+    display:none
+    
 
 }
