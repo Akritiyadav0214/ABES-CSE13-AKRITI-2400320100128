@@ -29,7 +29,7 @@ span{
     position: relative;
     animation-name: animate;
     animation-timing-function: ease-in;
-    animation-duration:0.7s;
+    animation-duration:0.8s;
     animation-iteration-count:infinite ;
     animation-direction: alternate;
 
@@ -38,8 +38,8 @@ span{
 
 }
 @keyframes animate{
-    from{top:0px;}
-    to{top:-40px;}
+    from{top:0px;transform:scale(0);}
+    to{top:-40px;transform:scale(0.8);}
 }
 .a{
     animation-delay: 0.7s;
