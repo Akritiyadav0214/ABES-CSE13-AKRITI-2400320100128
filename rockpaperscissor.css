@@ -1,0 +1,11 @@
+*{
+    margin:0px;
+
+}
+.choices1{
+    width:70px;
+    height:80px;
+    background-image:url("https://www.iviragi.com/images/scissors-emoji.png");
+    background-size: cover;
+    background-color: aquamarine;
+}
